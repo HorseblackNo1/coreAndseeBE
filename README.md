@@ -1,2 +1,2 @@
-# coreAndseeBE
+# corsAndseeBE
 node
